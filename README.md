@@ -1,6 +1,6 @@
 ## 🌐 SFDeviceTool
 
-Device tool for unity **.
+Device tool for unity.
 
 ---
 

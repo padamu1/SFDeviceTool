@@ -6,12 +6,13 @@
     "unity": "2021.3",
     "dependencies": {
    },
-   "samples": [
-  {
-    "displayName": "Android Native Java Template",
-    "description": "Sample Java class for reference. Not included in build.",
-    "path": "Samples~/Src"
-  },
+  "samples": [
+    {
+      "displayName": "Android Native Java Template",
+      "description": "Sample Java class for reference. Not included in build.",
+      "path": "Samples~/Src"
+    }
+  ],
    "keywords": [
     ],
     "author": {

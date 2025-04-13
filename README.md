@@ -1,11 +1,6 @@
-# SFDeviceTool
-Device tool for unity package 
+## 🌐 SFDeviceTool
 
-
-
-## 🌐 Unity WebGL Hosting Server
-
-This project is designed to **easily host Unity WebGL projects**.
+Device tool for unity **.
 
 ---
 

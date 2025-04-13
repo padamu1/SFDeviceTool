@@ -15,7 +15,7 @@ Window - Pacakge Manager - Install Package from git URL - "https://github.com/pa
 ### Haptic
 
 ```csharp
-HapticHandler.Haptic(DeviceTool.Haptic.HAPTIC_TYPE.Success);
+DeviceTool.Haptic.HapticHandler.Haptic(DeviceTool.Haptic.HAPTIC_TYPE.Success);
 ```
 
 ---
